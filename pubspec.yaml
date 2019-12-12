@@ -18,9 +18,9 @@ dependencies:
     git: 
       url: https://github.com/baij930312/charts_common.git
   collection: ^1.14.5 
-  flutter:
+  flutter: 
     sdk: flutter
-  intl: ^0.15.2
+  intl: ^0.16.0
   logging: any
   meta: ^1.1.1
 
