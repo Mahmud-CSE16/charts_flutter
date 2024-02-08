@@ -16,13 +16,13 @@ dependencies:
   # charts_common: 0.8.0
   charts_common:
     git: 
-      url: https://github.com/baij930312/charts_common.git
-  collection: ^1.14.5 
+      url: https://github.com/Mahmud-CSE16/charts_common.git
+  collection: any 
   flutter: 
     sdk: flutter
-  intl: ^0.16.0
+  intl: any
   logging: any
-  meta: ^1.1.1
+  meta: any
 
 
 dev_dependencies:
